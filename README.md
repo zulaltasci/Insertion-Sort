@@ -8,7 +8,7 @@ Adım 2- [2,6,16,22,18,27]
 Adım 3- [2,6,16,18,22,27]
 
 ## 2 Big-O
-Big-O(n^2)
+O(n^2)
 
 ## 3 Time Complexity
 Time Complexity: Average  case
